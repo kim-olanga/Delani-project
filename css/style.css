@@ -49,6 +49,39 @@
     margin: 15px;
 }
 .icon {
-    margin: 15px;
-    
+    margin: auto;
+    margin-top: 50px;
+    margin-right: 20px;
+    padding: 10px; 
+}
+.section5 {
+    text-align: center;
+}
+.icon1 {
+    margin: 10px;
+    text-align: center;
+    display: flex;
+}
+.icon2 {
+    margin: 10px;
+    text-align: center;
+    display: flex;
+    padding-bottom: 7px;
+}
+.section6 {
+    background-image: url(../image/c_image.jpg);
+    background-attachment: fixed;
+}
+
+.section7 {
+    padding-top: 2px;
+}
+.icon {
+    text-align: center;
+    padding-right: 6px;
+    padding-bottom: 2px;
+}
+.section8 {
+    text-align: center;
+    padding-bottom: 6px;
 }
