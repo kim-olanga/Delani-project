@@ -44,29 +44,32 @@
 .p {
     margin: 12px;
 }
-.h2 {
+.section4 {
     text-align: center;
-    margin: 15px;
 }
-.icon {
-    margin: auto;
-    margin-top: 50px;
-    margin-right: 20px;
-    padding: 10px; 
+.container .col-md-2 {
+    padding: 6px 10px;
+    display: flex;
+    width: auto;
+
 }
 .section5 {
     text-align: center;
 }
-.icon1 {
-    margin: 10px;
-    text-align: center;
+.container .row {
+    display: table;
+    width: 100%;
+}
+.container .col-md-4 {
     display: flex;
 }
-.icon2 {
-    margin: 10px;
-    text-align: center;
+.container2 .row {
+    display: table;
+    width: 100%;
+}
+.container2 .col-md-4 {
     display: flex;
-    padding-bottom: 7px;
+    
 }
 .section6 {
     background-image: url(../image/c_image.jpg);
