@@ -1,5 +1,5 @@
 body {
-    background-image: url("h-img.jpg");
+    background-image: url("h_img.jpg");
     background-position: center;
     padding: 5px;
 }
@@ -17,4 +17,7 @@ body {
     bottom: 45px;
     margin-left: 55px;
     margin-right: 55px;
+}
+body {
+    background-image: url("s_image.jpg");
 }
