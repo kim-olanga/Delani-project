@@ -1,23 +1,54 @@
-body {
-    background-image: url("h_img.jpg");
-    background-position: center;
-    padding: 5px;
+.section1 {
+    background-image: url(../image/h_img.jpg);
+    background-attachment: fixed;
 }
-.class logo {
-    margin: 4%;
-    position: relative;
+.a {
+    text-align: center;
+    margin: 45px;
+    color: white;
 }
-.class information {
-    position: absolute;
-    top: 20px;
-    right: 50px;
+.a img {
+    padding: 50px 0px;
 }
-.class icon {
-    position: absolute;
-    bottom: 45px;
-    margin-left: 55px;
-    margin-right: 55px;
+
+.h1{
+    text-align: center;
+    margin: 15px;
+    padding: 15px;
 }
-body {
-    background-image: url("s_image.jpg");
+.p {
+    margin: 0px;
+}
+.p {
+    margin: 5px;
+}
+.p {
+    margin: 4px;
+}
+.section3 {
+    background-image: url(../image/s_image.jpg);
+    background-attachment: fixed;
+}
+.h1 {
+    text-align: center;
+    font: bold;
+    margin: 45px;
+    padding: 45px;
+}
+.p {
+    margin: 7px;
+}
+.p {
+    margin: 15px;
+}
+.p {
+    margin: 12px;
+}
+.h2 {
+    text-align: center;
+    margin: 15px;
+}
+.icon {
+    margin: 15px;
+    
 }
