@@ -1,0 +1,74 @@
+.section1 {
+    background-image: url(../image/h_img.jpg);
+    background-attachment: fixed;
+}
+.a {
+    text-align: center;
+    margin: 45px;
+    color: white;
+}
+.a img {
+    padding: 50px 0px;
+}
+
+.h1{
+    text-align: center;
+    margin: 15px;
+    padding: 15px;
+}
+.p {
+    margin: 0px;
+}
+.p {
+    margin: 5px;
+}
+.p {
+    margin: 4px;
+}
+.section3 {
+    background-image: url(../image/s_image.jpg);
+    background-attachment: fixed;
+}
+.h1 {
+    text-align: center;
+    font: bold;
+    margin: 45px;
+    padding: 45px;
+}
+.p {
+    margin: 7px;
+}
+.p {
+    margin: 15px;
+}
+.p {
+    margin: 12px;
+}
+.section4 {
+    text-align: center;
+}
+.section5 {
+    text-align: center;
+}
+.glass {
+    width: 40%;
+    display: flex;
+    margin: 15px 20px 15px 10px;
+    padding: 10px;
+}
+.section6 {
+    background-image: url(../image/c_image.jpg);
+    background-attachment: fixed;
+    padding-bottom: 20px;
+}
+.section7 {
+    padding-top: 2px;
+    text-align: center;
+    padding-right: 6px;
+    padding-bottom: 5px;
+    padding-top: 50px;
+}
+.container-fluid {
+    text-align: center;
+    padding-bottom: 6px;
+}
